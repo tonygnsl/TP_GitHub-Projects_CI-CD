@@ -60,7 +60,7 @@ L'icône rouge dit seulement que la CI a échoué. Le journal montre en plus le 
 ## 8. Bilan
 
 - Le nom de votre dépôt GitHub et son URL.
-TP_GitHub-Projects_CI-CD
+TP_GitHub-Projects_CI-CD \
 https://github.com/tonygnsl/TP_GitHub-Projects_CI-CD
 
 - Le nom de la branche principale utilisée.
@@ -77,7 +77,7 @@ main
 
 - Le nom du test en échec, la cause de la régression et la correction effectuée.
 
-FAILED tests/test_calculator.py::test_add - assert -1 == 5
+FAILED tests/test_calculator.py::test_add - assert -1 == 5 \
 Pour corriger il  faut remettre a+b
 
 - Une phrase expliquant la différence entre un test exécuté localement et une CI exécutée par GitHub.
