@@ -63,8 +63,8 @@ L'icône rouge dit seulement que la CI a échoué. Le journal montre en plus le 
 TP_GitHub-Projects_CI-CD \
 https://github.com/tonygnsl/TP_GitHub-Projects_CI-CD
 
-- Le nom de la branche principale utilisée.
-main
+- Le nom de la branche principale utilisée. \
+La branche main
 
 - Une capture d'écran de votre dépôt GitHub contenant l'arborescence du projet.
 
