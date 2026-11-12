@@ -59,4 +59,27 @@ L'icône rouge dit seulement que la CI a échoué. Le journal montre en plus le 
 
 ## 8. Bilan
 
+- Le nom de votre dépôt GitHub et son URL.
+TP_GitHub-Projects_CI-CD
+https://github.com/tonygnsl/TP_GitHub-Projects_CI-CD
+
+- Le nom de la branche principale utilisée.
+main
+
+- Une capture d'écran de votre dépôt GitHub contenant l'arborescence du projet.
+
+<img src="img/arbre.png" alt="vert" width="500px">
+
+- Une capture ou le lien vers votre pull request avec le contrôle rouge puis le contrôle vert.
+
+<img src="img/vert.png" alt="vert">  
+
+
+- Le nom du test en échec, la cause de la régression et la correction effectuée.
+
+FAILED tests/test_calculator.py::test_add - assert -1 == 5
+
+- Une phrase expliquant la différence entre un test exécuté localement et une CI exécutée par GitHub.
+
+
 Différence entre test local et CI : Un test local est lancé à la main sur mon ordinateur. La CI est lancée automatiquement par GitHub sur une machine propre, à chaque push sur main ou pull request .
