@@ -21,7 +21,7 @@ Dépôt distant : Le projet en ligne sur GitHub, pour le sauvegarder et le parta
   
 origin : C'est le nom du dépôt distant. Il remplace l'URL de GitHub.
 
-**3. Quel est le rôle de la commande git push ?**
+**3. Quel est le rôle de la commande giiiit push ?**
 
 git push : Envoie mes commits locaux vers GitHub.
 
